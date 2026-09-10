@@ -89,3 +89,11 @@ A four-page CodeIgniter 4 application built as the first version of a basic Poin
 
 ## Running Locally
 >>>>>>> 8a7bf6c376f4758f5819c1d89e0a2685baedb7fe
+
+
+
+**App.php**
+public string $baseURL = 'http://localhost:8080/';
+
+**env**
+app.baseURL = 'http://localhost/TFA1_POS_Valera/public/'
